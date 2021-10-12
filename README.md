@@ -8,20 +8,16 @@
 3. push to this repo
 
 
-*Only for first time*
-
+*Only for first time*\
 ```git clone https://github.com/tamim9/GymBoo.git```
 
-*Every time you want to push*
-
+*Every time you want to push*\
 ```git add .```
 
-*Replace 'title' with meaningful title for your upgradation and replace 'description' with meaningful short description of your committed changes*
-
+*Replace 'title' with meaningful title for your upgradation and replace 'description' with meaningful short description of your committed changes*\
 ```git commit -m "title" -m "description"```
 
-*At last run this command to send code from your pc to **_GitHub_***
-
+*At last run this command to send code from your pc to **_GitHub_**\
 ```git push```
 
 
@@ -35,5 +31,7 @@
 ----------
 
 #### Contributors
-![image](https://avatars.githubusercontent.com/u/86656406?v=4 = 50x50) [@sr-tamim](https://github.com/sr-tamim)
-![image](https://avatars.githubusercontent.com/u/75596348?v=4 = 50x50) [@ibnumahtab](https://github.com/ibnumahtab)
+
+<img src="https://avatars.githubusercontent.com/u/86656406?v=4" alt=""  width="30" height="30" /> [**@sr-tamim**](https://github.com/sr-tamim)
+
+<img src="https://avatars.githubusercontent.com/u/75596348?v=4" alt="" width="30" height="30" /> [**@ibnumahtab**](https://github.com/ibnumahtab)
