@@ -7,10 +7,10 @@
 3. push to this repo
 
 ```
-> git clone https://github.com/tamim9/GymBoo.git
-> git add .
-> git commit -m "title" -m "description"
-> git push
+git clone https://github.com/tamim9/GymBoo.git
+git add .
+git commit -m "title" -m "description"
+git push
 ```
 
 #### **Rules**
