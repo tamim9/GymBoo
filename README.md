@@ -2,26 +2,33 @@
 > This is a gym website which is made using HTML, CSS, JavaScript, ReactJS, React-Router and many more
 ----------
 
-#### **What to do**
+### **What to do**
 1. clone this repo on your pc
-2. develop this project and commit
-3. push to this repo
+2. develop this project
+3. build this project
+4. commit files into git
+5. push to this repo
 
 
 *Only for first time*\
 ```git clone https://github.com/tamim9/GymBoo.git```
 
-*Every time you want to push*\
-```git add .```
-
+*Every time you want to push.*
+```command
+npm run build
+git add .
+```
+\
 *Replace 'title' with meaningful title for your upgradation and replace 'description' with meaningful short description of your committed changes*\
-```git commit -m "title" -m "description"```
+```console
+git commit -m "title" -m "description"
+git push
+```
+*At last run this command to send code from your pc to **_GitHub_***
 
-*At last run this command to send code from your pc to **_GitHub_**\
-```git push```
 
 
-#### **Rules**
+### **Rules**
 - every commit should have to be meaningful title and description [ *description is must* ]
 - don't mess up with other contributors files
 - each contributor have to bound in own part
