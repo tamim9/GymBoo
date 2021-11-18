@@ -1,5 +1,6 @@
 ## GymBoo - Let's Build the Muscles
 > This is a gym website which is made using HTML, CSS, JavaScript, ReactJS, React-Router and many more
+##### [Template site](http://preview.themeforest.net/item/strongr-fitness-gym-elementor-template-kit/full_screen_preview/33813710?_ga=2.212789522.724411514.1637227568-1557714179.1637227568&_gac=1.191320408.1637227568.Cj0KCQiAkNiMBhCxARIsAIDDKNXJQE1hjioNRsWQuxahfrpOo9oorApt5TLDjDC-ypkM5F6PV-X4994aAjlKEALw_wcB)
 ----------
 
 ### **What to do**
@@ -43,4 +44,4 @@ git push
 
 <img src="https://avatars.githubusercontent.com/u/75596348?v=4" alt="" width="30" height="30" /> [**@ibnumahtab**](https://github.com/ibnumahtab)
 
-<img src="https://avatars.githubusercontent.com/u/86640472?v=4" alt="" width="30" height="30" /> [**@ibnumahtab**](https://github.com/yeasinbinali)
+<img src="https://avatars.githubusercontent.com/u/86640472?v=4" alt="" width="30" height="30" /> [**@yeasinbinali**](https://github.com/yeasinbinali)
